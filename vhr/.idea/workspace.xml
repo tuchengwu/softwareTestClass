@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c0fd80a-be96-4d03-8483-e5bafb6d3383" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhr.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-mapper/vhr-mapper.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-model/vhr-model.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-service/vhr-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/vhrserver/vhr-web/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhr-web/vhr-web.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vhrserver/vhrserver.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZFG3Y0o8e4sAyVtUuqbjb80fXJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/testPractice" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.VhrApplication">
+    <configuration name="MailserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mailserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.javaboy.mailserver.MailserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VhrApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="vhr-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.javaboy.vhr.VhrApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c0fd80a-be96-4d03-8483-e5bafb6d3383" name="Default Changelist" comment="" />
+      <created>1584427229369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584427229369</updated>
+      <workItem from="1584427234254" duration="689000" />
+      <workItem from="1584427961098" duration="1004000" />
+      <workItem from="1584428981626" duration="165000" />
+      <workItem from="1584429161794" duration="194000" />
+      <workItem from="1584429366058" duration="473000" />
+      <workItem from="1584502429262" duration="996000" />
+      <workItem from="1584576724120" duration="2995000" />
+      <workItem from="1585107674364" duration="1373000" />
+      <workItem from="1585403508298" duration="761000" />
+      <workItem from="1585710988020" duration="1422000" />
+      <workItem from="1585744270329" duration="9000" />
+      <workItem from="1586831301498" duration="18000" />
+      <workItem from="1588039310792" duration="1360000" />
+      <workItem from="1588041233356" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1585744277745">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585744277745" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1588040904838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588040904838" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1588040904838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588040904838" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1588040904838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588040904838" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1588040904838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588040904838" />
+    <state width="1877" height="261" key="GridCell.Tab.1.bottom" timestamp="1588040904838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588040904838" />
+    <state width="1877" height="261" key="GridCell.Tab.1.center" timestamp="1588040904838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588040904838" />
+    <state width="1877" height="261" key="GridCell.Tab.1.left" timestamp="1588040904838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588040904838" />
+    <state width="1877" height="261" key="GridCell.Tab.1.right" timestamp="1588040904838">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588040904838" />
+    <state x="461" y="161" key="SettingsEditor" timestamp="1584428228903">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="161" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584428228903" />
+    <state x="616" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1585744270659">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585744270659" />
+    <state x="334" y="195" key="new project wizard" timestamp="1585711049698">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="195" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585711049698" />
+  </component>
+</project>
